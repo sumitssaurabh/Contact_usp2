@@ -1,0 +1,30 @@
+.primary_btn {
+  padding: 14px;
+  background-color: #000000;
+  border-radius: 5px;
+  color: aliceblue;
+  align-items: center;
+  gap: 13px;
+  font-size: 16px;
+  display: flex;
+  cursor: pointer;
+  width: 231px;
+  margin-left: 1px;
+  padding-left: 17px;
+}
+
+
+
+.call{
+  padding: 15px 10px;
+    background-color: #000000;
+    border-radius: 5px;
+    color: aliceblue;
+    align-items: center;
+    gap: 5px;
+    font-size: 12px;
+    display: flex;
+    cursor: pointer;
+}
+
+

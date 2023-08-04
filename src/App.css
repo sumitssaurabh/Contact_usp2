@@ -1,0 +1,115 @@
+*{
+  margin: 0;
+}
+
+
+body {
+  font-family:Arial, Helvetica, sans-serif ;
+}
+
+
+.contact{
+ 
+  width: 81%;
+  background-color: white;
+  margin-left: 125px;
+  margin-top: 15px;
+  height: calc(100vh -72px);
+}
+
+
+.margin{
+  margin-left: 10px;  
+}
+
+.div{
+  display: flex;
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.btn{
+  display: flex;
+  gap: 35px;
+  margin-top: 10px;
+  cursor: pointer;
+
+
+}
+.btn2{
+  background-color: azure;
+  color: black;
+  cursor: pointer;
+}
+
+
+.control{
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    position: relative;
+}
+ 
+  form label {
+    position: relative;
+    top: 4px;
+    left: 16px;
+    padding: 0px 18px;
+    background-color: white;
+    width: 39px;
+    height: -14px
+
+
+ }
+
+ .form{
+
+  height: calc(100vh -72px);
+  width:500px
+ }
+
+
+ .text{
+  text-align: left;
+  justify-content: left;
+ display: flex;
+ height:248px;
+ }
+
+ .side2{
+  display: flex;
+
+ }
+
+ .submit{
+  margin-left: 50%;
+  background-color: black;
+  padding: 0px 18px;
+  color: aliceblue;
+  cursor: pointer;
+  height: 29px;
+  border-radius: 5px;
+  margin-top: 10px;
+ }
+
+
+ 
+
+ .email_form {
+  background-color: white;
+  color: black;
+  cursor: pointer;
+  height: 46px;
+  border-radius: 6px;
+  margin-top: 14px;
+  padding: 0x 10px;
+  background-color: white;
+  align-items: center;
+  width: 502px;
+
+}
+
+.App{
+  height: calc(100vh -72px);
+}
